@@ -1,6 +1,6 @@
 = pairtree
 
-Description goes here.
+Ruby Pairtre implementation
 
 == Contributing to pairtree
  

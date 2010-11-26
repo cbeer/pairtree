@@ -15,9 +15,8 @@ Jeweler::Tasks.new do |gem|
   gem.name = "pairtree"
   gem.homepage = "http://github.com/cbeer/pairtree"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
-  gem.email = "chris@authoritativeopinion.com"
+  gem.summary = %Q{Ruby Pairtree implementation}
+  gem.email = "chris@cbeer.info"
   gem.authors = ["Chris Beer"]
   # Include your dependencies below. Runtime dependencies are required when using your gem,
   # and development dependencies are only needed for development (ie running rake tasks, tests, etc)
